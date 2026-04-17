@@ -1,12 +1,12 @@
 {
-  "export_job_id": "be4f3cac-b101-4b4c-8151-581dbd2bebfa",
+  "export_job_id": "a74c99c2-2701-4098-9065-33f74291254b",
   "id_short": 637429,
-  "published_at": "2026-04-14T07:46:57Z",
+  "published_at": "2026-04-17T19:47:50Z",
   "repo_name": "all-restaurants-in-roanoke-virginia-us-sample-637429",
   "sample_asset_name": "beamstation_637429_restaurants-us-va_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/637429/beamstation_637429_restaurants-us-va_SAMPLE_DIST.csv",
-  "sample_records": 25,
-  "sample_sha256": "38b11b2f53a3b688e0282a312ddbfdc7de47b60e19431ee441173a240d1fdc54",
-  "sample_size_bytes": 114667,
-  "total_records": 397
+  "sample_records": 59,
+  "sample_sha256": "9cfed87e99a89328192f3bf44eb32d8601c1b5102b5f4505e907ff443dda4a6c",
+  "sample_size_bytes": 227761,
+  "total_records": 595
 }
