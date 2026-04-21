@@ -1,6 +1,6 @@
 # All Restaurants in Roanoke, Virginia, US
 
-> Free BeamStation sample export with 59 rows and masked direct-contact fields.
+> Free BeamStation sample export with 53 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `637429` |
 | Location | Roanoke |
 | Category | Restaurants |
-| Full dataset size | 595 records |
-| Free sample size | 59 records (9.92%) |
-| Last export | 2026-04-14T15:20:05.498205+00:00 |
+| Full dataset size | 531 records |
+| Free sample size | 53 records (9.98%) |
+| Last export | 2026-04-21T16:37:30.093625+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-roanoke-virginia-us-sample-637429/releases/download/sample-latest/beamstation_637429_restaurants-us-va_SAMPLE_DIST.csv) |
 
 ## What is in this sample
